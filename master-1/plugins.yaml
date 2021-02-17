@@ -15,6 +15,8 @@ plugins:
 - {id: cloudbees-assurance}
 - {id: cloudbees-bitbucket-branch-source}
 - {id: cloudbees-blueocean-default-theme}
+- {id: cloudbees-casc-api}
+- {id: cloudbees-cyberark-credentials}
 - {id: cloudbees-folder}
 - {id: cloudbees-folders-plus}
 - {id: cloudbees-github-reporting}
@@ -35,6 +37,8 @@ plugins:
 - {id: command-launcher}
 - {id: config-file-provider}
 - {id: configuration-as-code}
+- {id: conjur-credentials}
+- {id: conjur-simple-integration}
 - {id: credentials}
 - {id: credentials-binding}
 - {id: dependency-check-jenkins-plugin}
@@ -61,6 +65,8 @@ plugins:
 - {id: gradle}
 - {id: handlebars}
 - {id: handy-uri-templates-2-api}
+- {id: hashicorp-vault-pipeline}
+- {id: hashicorp-vault-plugin}
 - {id: htmlpublisher}
 - {id: http_request}
 - {id: infradna-backup}
