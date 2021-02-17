@@ -71,6 +71,8 @@ roles:
   - hudson.model.Run.Update
   - hudson.model.View.Delete
   - hudson.model.Run.Delete
+  - hudson.scm.SCM.Tag
+  - hudson.model.View.Configure
   - hudson.model.Item.Promote
   - hudson.model.Item.Configure
   - hudson.model.Item.Read
