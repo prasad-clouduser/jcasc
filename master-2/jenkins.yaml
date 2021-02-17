@@ -1,0 +1,210 @@
+credentials:
+  system:
+    domainCredentials:
+    - credentials:
+      - usernamePassword:
+          description: "Credentials for Git(Madhuri)"
+          id: "madhurikotha"
+          password: "{AQAAABAAAAAQe3wMOwiC9gIclMplaQW1F/+EpjBfPbV1MLjx78K9toE=}"
+          scope: GLOBAL
+          username: "a233553"
+      - file:
+          fileName: "odev-eiaas-dev-tf-05e2.secretfile"
+          id: "svc-terraform-file"
+          scope: GLOBAL
+          secretBytes: "{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}"
+      - file:
+          description: "ssh public key for cis hardening compute instance"
+          fileName: "id_rsa.pub"
+          id: "cis-instance-ssh-pub-key"
+          scope: GLOBAL
+          secretBytes: "{T1UdSRXThzgHr2ITMIvipVYPVNCOGyhVSRHlZJStDTMvyQbYjTXRBq0NN+4OBKjQ8uwYp1zCziHUcC/mZ/CgTw7fMQLT1769d38FQ/53nf3vgnsvYcUKQzJ7UeHuY6TNl1JitKoW8dj0t8oPBGBkjjhxlZ+ztPCxxR4D0aqlVYlJmCRz+i2q/+YmMWMidI1fhw0iZhTIGqjwAHaZdhENOC9hPE3j6PhB2cfUPi6wXogwFK29NjJLTUvdGErLcr5/JgUBFsDmtLD5dQLg/0NCNEv6C0yxzuFZ/fI3AqsnGb1wgQVcq72Bq8GVK9sVJU3mf0tK6dK4mCfC4nhVp0/6HRBPfZFwnMmZX3xNwRTheI38GyDiDtO8RQXwzX0sGRKVNbw7KVb2SZKnJ4ZKErF3xL+3L22ZRRlJ/HqsCwEVsNAzyw8pAGgnM11tWUK5YzayeNUr83OFIKUXlTdgTUmZu3M4MLz0f9YhM4ZcceqVjEzN9izzKqYgQ5XefGCY+PnFtIjywdmsVIAG/ovkmYEzUlxaR2CmA4a8HmISTTxMydSKQK0DrPrc44i9h7DxC+mA4eTD4w8oH57VrXmmAWRbGfsSEP3dqZkX1g3JwwKbRbC92ms3dBxnSp+gKz7yIy1676ZVnfz1hUs3qhP5/WVI4jPs3ar+J06qqK+zXKQWvhIxhqoflS6BnGqmzBuYTzD2tXEuryDafNC3m9hWXjNyucLSfoT6BHy7YHpCyn9IcQ+5NEEzYWtcqMH0ujSlfrMT61IvYEyioWMgrIA8YUCbQ4AQ8AJUwFxCntOGfZv0dW43bXlDcfzt36qFtPDFWbH3daiamrVOoBHLNikdOkg5wbdHZ1C57hbDDgHQ/jQszguv7vxVVparfLo3/m1EliJ+v7ctHC/RnMiS7Y7zm1eSfy2gvC3a8CvaDnPwRKi8hpDWNhDUig/5GfnTU+yBDBMEvhAoxs0h3gST4BhnAZoz0rlIXyvcXgOXaNGpyXbfbvDQ7Y3x+SlXJOq5zA9sK9rF}"
+      - file:
+          description: "ssh key file for cis hardening instance"
+          fileName: "id_rsa"
+          id: "cis-instance-ssh-key"
+          scope: GLOBAL
+          secretBytes: "{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}"
+      - file:
+          fileName: "esdlc-jenkins-dev-e7aj-1e62a3be8726.json"
+          id: "esdlc-dev-jenkins-file"
+          scope: GLOBAL
+          secretBytes: "{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}"
+jenkins:
+  agentProtocols:
+  - "Diagnostic-Ping"
+  - "JNLP4-connect"
+  - "OperationsCenter2"
+  - "Ping"
+  authorizationStrategy: "cloudBeesRoleBasedAccessControl"
+  crumbIssuer:
+    standard:
+      excludeClientIPFromCrumb: true
+  disableRememberMe: false
+  labelAtoms:
+  - name: "gcloud-pod"
+  - name: "master"
+  markupFormatter: "plainText"
+  mode: NORMAL
+  myViewsTabBar: "standard"
+  numExecutors: 0
+  primaryView:
+    all:
+      name: "all"
+  projectNamingStrategy: "standard"
+  quietPeriod: 5
+  remotingSecurity:
+    enabled: true
+  scmCheckoutRetryCount: 0
+  securityRealm: "operationsCenter"
+  slaveAgentPort: 50000
+  updateCenter:
+    sites:
+    - id: "core-mm-offline"
+      url: "file:/tmp/jenkins/war/WEB-INF/plugins/update-center.json"
+    - id: "cap-core-mm"
+      url: "https://jenkins-updates.cloudbees.com/update-center/envelope-core-mm/update-center.json"
+  views:
+  - all:
+      name: "all"
+  viewsTabBar: "standard"
+beekeeper:
+  enabled: true
+  securityWarnings:
+    enabledForCore: true
+    enabledForPlugins: true
+  upgrades:
+    autoDowngradePlugins: false
+    autoUpgradePlugins: false
+notificationConfiguration:
+  enabled: false
+kube:
+  podTemplatesConfiguration:
+    templates:
+    - containers:
+      - args: "cat"
+        command: "/bin/sh -c"
+        image: "hashicorp/terraform:0.12.24"
+        livenessProbe:
+          failureThreshold: 0
+          initialDelaySeconds: 0
+          periodSeconds: 0
+          successThreshold: 0
+          timeoutSeconds: 0
+        name: "terraform"
+        ttyEnabled: true
+        workingDir: "/home/jenkins/agent"
+      - args: "cat"
+        command: "/bin/sh -c"
+        image: "siticom/terraform-ansible"
+        livenessProbe:
+          failureThreshold: 0
+          initialDelaySeconds: 0
+          periodSeconds: 0
+          successThreshold: 0
+          timeoutSeconds: 0
+        name: "terraform-ansible"
+        ttyEnabled: true
+        workingDir: "/home/jenkins/agent"
+      - args: "cat"
+        command: "/bin/sh -c"
+        image: "gcr.io/cloud-builders/gcloud"
+        livenessProbe:
+          failureThreshold: 0
+          initialDelaySeconds: 0
+          periodSeconds: 0
+          successThreshold: 0
+          timeoutSeconds: 0
+        name: "gcloud"
+        ttyEnabled: true
+        workingDir: "/home/jenkins/agent"
+      id: "7058ab4f-0495-4508-9987-845f03e85d79"
+      label: "gcloud-pod"
+      name: "gcloud-pod-template"
+      namespace: "cloudbees-core"
+      serviceAccount: "test-sa"
+      yamlMergeStrategy: "override"
+security:
+  anonymizeSupportBundle:
+    enabled: false
+  apiToken:
+    creationOfLegacyTokenEnabled: false
+    tokenGenerationOnCreationEnabled: false
+    usageStatisticsEnabled: true
+  sSHD:
+    port: -1
+unclassified:
+  artifactManager:
+    artifactManagerFactories:
+    - "jSync"
+  bitbucketEndpointConfiguration:
+    endpoints:
+    - bitbucketCloudEndpoint:
+        enableCache: false
+        manageHooks: false
+        repositoriesCacheDuration: 0
+        teamCacheDuration: 0
+  buildDiscarders:
+    configuredBuildDiscarders:
+    - "jobBuildDiscarder"
+  cloudBeesSCMReporting:
+    enabled: true
+  email-ext:
+    adminRequiredForTemplateTesting: false
+    allowUnregisteredEnabled: false
+    allowedDomains: "@team.neustar"
+    charset: "UTF-8"
+    debugMode: false
+    defaultBody: |-
+      $PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS:
+
+      Check console output at $BUILD_URL to view the results.
+    defaultContentType: "text/plain"
+    defaultSubject: "$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS!"
+    defaultTriggerIds:
+    - "hudson.plugins.emailext.plugins.trigger.FailureTrigger"
+    mailAccount:
+      smtpHost: "smartmail.neustar.com"
+      smtpPassword: "{AQAAABAAAAAQG656hcYhmWY7eErH27xuUJG/cFJ0ex65Mrvr7qV75QI=}"
+    maxAttachmentSize: -1
+    maxAttachmentSizeMb: -1
+    precedenceBulk: false
+    watchingEnabled: false
+  experimentalPlugins:
+    enabled: false
+  fingerprints:
+    fingerprintCleanupDisabled: false
+    storage: "file"
+  gitLabConnectionConfig:
+    connections:
+    - clientBuilderId: "autodetect"
+      connectionTimeout: 10
+      ignoreCertificateErrors: false
+      readTimeout: 10
+  gitSCM:
+    allowSecondFetch: false
+    createAccountBasedOnEmail: false
+    disableGitToolChooser: false
+    hideCredentials: false
+    showEntireCommitSummaryInChanges: false
+    useExistingAccountWithSameEmail: false
+  junitTestResultStorage:
+    storage: "file"
+  location:
+    adminAddress: "address not configured yet <nobody@nowhere>"
+    url: "http://10.125.72.47/master-2/"
+  mailer:
+    charset: "UTF-8"
+    useSsl: false
+    useTls: false
+  pollSCM:
+    pollingThreadCount: 10
+  sonarGlobalConfiguration:
+    buildWrapperEnabled: false
+  usageStatisticsCloudBees:
+    usageStatisticsCollected: true
+tool:
+  git:
+    installations:
+    - home: "git"
+      name: "Default"

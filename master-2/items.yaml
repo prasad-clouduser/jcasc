@@ -1,0 +1,15 @@
+removeStrategy:
+  rbac: SYNC
+  items: NONE
+items:
+- kind: folder
+  name: Application-Development-Services
+  description: ''
+  items:
+  - kind: folder
+    name: Test-2
+    description: ''
+    items:
+    - kind: folder
+      name: jte-poc-1
+      description: ''
