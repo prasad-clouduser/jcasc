@@ -88,3 +88,20 @@ roles:
   - hudson.model.Hudson.Read
   - hudson.model.View.Read
   name: browse
+groups:
+- members:
+    users:
+    - jenkins-admin-user-onedev
+  roles:
+  - name: administer
+    grantedAt: current
+  name: Administrators
+- members:
+    users:
+    - jenkins-dev-user-onedev
+  roles:
+  - name: develop
+    grantedAt: current
+  name: Developers
+  
+  
