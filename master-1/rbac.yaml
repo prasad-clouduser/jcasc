@@ -75,7 +75,6 @@ roles:
   - hudson.model.View.Configure
   - hudson.model.Item.Configure
   - hudson.model.Item.Read
-  - hudson.scm.SCM.Tag
   - hudson.model.Item.Discover
   - hudson.model.Hudson.Read
   - hudson.model.Item.Workspace

@@ -7,9 +7,9 @@ items:
   description: ''
   items:
   - kind: folder
-    name: Test-1
+    name: Test-2
     description: ''
     items:
     - kind: folder
-      name: jte-poc
+      name: jte-poc-1
       description: ''
