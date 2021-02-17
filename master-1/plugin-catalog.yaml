@@ -24,4 +24,3 @@ configurations:
     hashicorp-vault-plugin: {version: 3.7.0}
     conjur-credentials: {version: 1.0.2}
     nexus-artifact-uploader: {version: '2.13'}
-    cloudbees-casc-api: {version: 0.7}
