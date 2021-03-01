@@ -52,7 +52,6 @@ plugins:
 - {id: emailext-template}
 - {id: font-awesome-api}
 - {id: form-element-path}
-- {id: fortify}
 - {id: git}
 - {id: git-client}
 - {id: git-server}
