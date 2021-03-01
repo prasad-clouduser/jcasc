@@ -3,7 +3,7 @@ credentials:
     domainCredentials:
     - credentials:
       - usernamePassword:
-          description: "Credentials for Git(Madhuri)"
+          description: "Credentials for Git(Madhuri Kotha)"
           id: "madhurikotha"
           password: "{AQAAABAAAAAQe3wMOwiC9gIclMplaQW1F/+EpjBfPbV1MLjx78K9toE=}"
           scope: GLOBAL
@@ -160,7 +160,7 @@ unclassified:
 
       Check console output at $BUILD_URL to view the results.
     defaultContentType: "text/plain"
-    defaultSubject: "$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS!"
+    defaultSubject: "$PROJECT_NAME - Build # $BUILD_NUMBER"
     defaultTriggerIds:
     - "hudson.plugins.emailext.plugins.trigger.FailureTrigger"
     mailAccount:
